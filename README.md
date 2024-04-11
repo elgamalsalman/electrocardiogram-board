@@ -32,4 +32,4 @@ Then the surface-mount soldering took place using a microscope-equiped soldering
 
 Giving our final product shown below once more!
 
-<img src="./assets/board_soldered.jpg" alt="final board" width=300>
+<img src="./assets/board_soldered.jpg" alt="final board" width=500>
