@@ -2,7 +2,7 @@
 
 ### Description
 
-This is a pcb board designed, printed and even soldered from scratch with the purpose of plotting my heart beats on an oscilloscope. The final product and the final oscilloscope plots are shown below.
+This is a pcb board designed, printed and even soldered from scratch with the purpose of plotting my heart beats on an oscilloscope. The final product and the final oscilloscope plots are shown below.\
 
 <img src="./assets/board_soldered.jpg" alt="final board" width=500>
 
