@@ -4,8 +4,9 @@
 
 This is a pcb board designed, printed and even soldered from scratch with the purpose of plotting my heart beats on an oscilloscope. The final product and the final oscilloscope plots are shown below.
 
-![final board](./assets/board_soldered.jpg)
-![ecg oscilloscope plot](./assets/ecg_graph.jpeg)
+<img src="./assets/board_soldered.jpg" alt="final board" width=300>
+
+<img src="./assets/ecg_graph.jpeg" alt="ecg oscilloscope plot" width=300>
 
 I am alive haha.
 
@@ -27,8 +28,8 @@ Then on altium the pcb was made to be compact and use as few vias as possible.
 
 Then the surface-mount soldering took place using a microscope-equiped soldering station and the main two soldering methods were practiced: using soldering wire and using solder paste.
 
-![soldering station](./assets/soldering_station.jpeg)
+<img src="./assets/soldering_station.jpeg" alt="soldering station" width=300>
 
 Giving our final product shown below once more!
 
-![final product](./assets/board_soldered.jpg)
+<img src="./assets/board_soldered.jpg" alt="final board" width=300>
